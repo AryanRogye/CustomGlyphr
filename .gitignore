@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# Xcode user data
+*.xcuserstate
+*.xcuserdata/
+xcuserdata/
+
+# Xcode build output
+build/
+DerivedData/
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# App packaging and symbols
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Local editor and tooling
+.vscode/
+.idea/
+*.swp
+*.swo
